@@ -1,5 +1,4 @@
-Chapter 1: What Are Logical Fallacies?: The Impact of Logical Fallacies on Decision-Making
-==========================================================================================
+# The Impact of Logical Fallacies on Decision-Making
 
 Logical fallacies can have a profound impact on decision-making, both in our personal lives and in the larger society. In this chapter, we will explore how logical fallacies can influence decision-making and why it is important to recognize and avoid them.
 

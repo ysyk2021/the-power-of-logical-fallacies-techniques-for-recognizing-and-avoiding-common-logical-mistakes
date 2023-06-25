@@ -1,5 +1,4 @@
-Chapter 1: What Are Logical Fallacies?: Definition and Types of Logical Fallacies
-=================================================================================
+# Definition and Types of Logical Fallacies
 
 Logical fallacies are errors in reasoning that can lead to flawed arguments and false conclusions. In this chapter, we will define what logical fallacies are and explore the different types of logical fallacies.
 

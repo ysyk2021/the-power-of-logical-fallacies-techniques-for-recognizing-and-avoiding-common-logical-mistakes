@@ -1,5 +1,4 @@
-Chapter 1: What Are Logical Fallacies?: Examples of Common Logical Fallacies
-============================================================================
+# Examples of Common Logical Fallacies
 
 Logical fallacies are common errors in reasoning that can undermine the validity of an argument. In this chapter, we will explore some examples of common logical fallacies.
 

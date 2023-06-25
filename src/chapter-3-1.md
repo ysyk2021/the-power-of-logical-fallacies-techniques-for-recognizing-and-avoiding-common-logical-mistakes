@@ -1,5 +1,4 @@
-Chapter 2: The Psychology of Logical Fallacies: The Cognitive Biases that Lead to Logical Fallacies
-===================================================================================================
+# The Cognitive Biases that Lead to Logical Fallacies
 
 In this chapter, we will explore the cognitive biases that can lead to logical fallacies. By understanding these biases, we can become more effective at recognizing and avoiding common logical mistakes.
 

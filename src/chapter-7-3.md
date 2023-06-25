@@ -1,5 +1,4 @@
-Chapter 6: Communication Strategies: Techniques for Avoiding Logical Fallacies When Communicating
-=================================================================================================
+# Techniques for Avoiding Logical Fallacies When Communicating
 
 In this chapter, we will explore communication strategies for avoiding logical fallacies when communicating. By using these techniques, we can become more effective communicators and avoid common mistakes in reasoning.
 

@@ -1,4 +1,4 @@
-Introduction: Overview of Logical Fallacies
+Overview of Logical Fallacies
 ===========================================
 
 In this book, we will explore the world of logical fallacies and provide techniques for recognizing and avoiding common logical mistakes. Logical fallacies are errors in reasoning that can lead to flawed arguments or decisions. They can occur in everyday conversations, debates, and decision-making processes, and can have a significant impact on the quality of our reasoning and the outcomes of our decisions.

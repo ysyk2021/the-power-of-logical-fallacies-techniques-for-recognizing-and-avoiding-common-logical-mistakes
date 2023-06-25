@@ -1,5 +1,4 @@
-Chapter 5: Developing Logical Reasoning Skills: Building a Foundation of Strong Reasoning
-=========================================================================================
+# Building a Foundation of Strong Reasoning
 
 In this chapter, we will explore the importance of building a foundation of strong reasoning skills in order to effectively recognize and avoid common logical fallacies.
 

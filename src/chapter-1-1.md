@@ -1,4 +1,4 @@
-Introduction: Purpose of the Book
+Purpose of the Book
 =================================
 
 The purpose of this book is to provide readers with a comprehensive understanding of logical fallacies and techniques for recognizing and avoiding common logical mistakes. Logical fallacies are errors in reasoning that can occur in everyday conversations, debates, and decision-making processes. They can have a significant impact on the quality of our reasoning and the outcomes of our decisions.

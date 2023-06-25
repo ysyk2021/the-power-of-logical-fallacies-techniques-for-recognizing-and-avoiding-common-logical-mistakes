@@ -1,4 +1,4 @@
-Introduction: Importance of Recognizing and Avoiding Logical Mistakes
+Importance of Recognizing and Avoiding Logical Mistakes
 =====================================================================
 
 In this book, we will explore the importance of recognizing and avoiding common logical mistakes, also known as logical fallacies. Logical fallacies can occur in everyday conversations, debates, and decision-making processes, and can have a significant impact on the quality of our reasoning and the outcomes of our decisions.

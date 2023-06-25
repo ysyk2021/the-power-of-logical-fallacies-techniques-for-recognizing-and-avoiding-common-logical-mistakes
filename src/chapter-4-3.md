@@ -1,5 +1,4 @@
-Chapter 3: Identifying Logical Fallacies: Practice Exercises for Identifying Logical Fallacies
-==============================================================================================
+# Practice Exercises for Identifying Logical Fallacies
 
 In this chapter, we will provide practice exercises for identifying logical fallacies. By practicing these exercises, you can become more familiar with common types of logical fallacies and improve your ability to recognize them.
 

@@ -1,5 +1,4 @@
-Chapter 2: The Psychology of Logical Fallacies: Why People Use Logical Fallacies
-================================================================================
+# Why People Use Logical Fallacies
 
 In this chapter, we will explore some of the reasons why people use logical fallacies in their arguments. By understanding these motivations, we can become more effective at recognizing and avoiding common logical mistakes.
 
