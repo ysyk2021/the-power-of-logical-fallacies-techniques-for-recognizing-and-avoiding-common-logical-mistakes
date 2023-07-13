@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 In this book, we have explored the power of logical fallacies and techniques for recognizing and avoiding common logical mistakes. Here are the key points we have covered:
