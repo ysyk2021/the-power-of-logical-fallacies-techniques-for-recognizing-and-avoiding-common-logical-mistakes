@@ -10,7 +10,4 @@ Whether you are a student, a professional, or simply someone who wants to improv
 
 In a world where misinformation and manipulation are all too common, "The Power of Logical Fallacies" offers a refreshing perspective on the importance of clear, rational thinking. This book is a must-read for anyone who wants to improve their reasoning abilities and avoid being misled by faulty arguments.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
