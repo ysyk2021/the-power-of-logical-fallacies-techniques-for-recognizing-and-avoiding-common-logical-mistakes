@@ -1,4 +1,4 @@
-Chapter 4: Building a Foundation of Strong Reasoning
+Building a Foundation of Strong Reasoning
 ====================================================
 
 In this chapter, we will explore the essential elements that form the foundation of strong reasoning. To become effective critical thinkers, it is crucial to understand and apply the principles of sound reasoning. By developing a solid foundation in logical thinking, we can recognize and avoid common logical mistakes that often lead to flawed arguments. This chapter will introduce key concepts and techniques to strengthen your reasoning skills.

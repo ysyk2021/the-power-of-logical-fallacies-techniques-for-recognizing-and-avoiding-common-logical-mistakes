@@ -1,4 +1,4 @@
-Chapter: Why People Use Logical Fallacies
+Why People Use Logical Fallacies
 =========================================
 
 Introduction

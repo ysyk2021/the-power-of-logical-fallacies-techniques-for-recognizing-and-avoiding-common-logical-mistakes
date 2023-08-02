@@ -1,4 +1,4 @@
-Chapter: Overcoming Psychological Barriers to Recognizing Logical Fallacies
+Overcoming Psychological Barriers to Recognizing Logical Fallacies
 ===========================================================================
 
 Introduction

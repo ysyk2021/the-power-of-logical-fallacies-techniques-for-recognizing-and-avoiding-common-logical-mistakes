@@ -1,4 +1,4 @@
-Chapter 5: Examples of Common Logical Fallacies
+Examples of Common Logical Fallacies
 ===============================================
 
 In this chapter, we will explore various examples of common logical fallacies. By studying real-life instances of these fallacies in action, we can better understand how they manifest in everyday arguments and reasoning.

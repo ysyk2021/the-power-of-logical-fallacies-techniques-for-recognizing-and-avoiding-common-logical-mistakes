@@ -1,4 +1,4 @@
-Chapter 6: Techniques for Developing Logical Reasoning Skills
+Techniques for Developing Logical Reasoning Skills
 =============================================================
 
 In this chapter, we will explore techniques that can help you develop and enhance your logical reasoning skills. These techniques are designed to improve your ability to think critically, analyze arguments, and avoid common logical mistakes. By practicing these techniques, you will become a more effective and rational thinker.

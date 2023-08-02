@@ -1,4 +1,4 @@
-Chapter: Building a Case Based on Solid Logic
+Building a Case Based on Solid Logic
 =============================================
 
 In this chapter, we will explore the essential strategies and techniques for constructing a compelling case based on solid logic. By understanding and applying these principles, you can strengthen your arguments, avoid logical fallacies, and enhance your ability to persuade others effectively.

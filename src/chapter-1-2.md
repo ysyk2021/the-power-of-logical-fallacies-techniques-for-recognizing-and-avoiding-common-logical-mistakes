@@ -1,4 +1,4 @@
-Chapter: Overview of Logical Fallacies
+Overview of Logical Fallacies
 ======================================
 
 Welcome to the chapter on "Overview of Logical Fallacies" in the book "The Power of Logical Fallacies: Techniques for Recognizing and Avoiding Common Logical Mistakes." In this chapter, we will provide a comprehensive overview of logical fallacies, exploring their definitions, classifications, and examples. Understanding these fallacies is crucial for developing critical thinking skills and avoiding common logical mistakes in our reasoning.

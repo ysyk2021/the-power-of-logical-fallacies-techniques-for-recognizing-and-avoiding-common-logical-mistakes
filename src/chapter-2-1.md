@@ -1,4 +1,4 @@
-Chapter 4: Definition and Types of Logical Fallacies
+Definition and Types of Logical Fallacies
 ====================================================
 
 In this chapter, we will delve into the definition and various types of logical fallacies. Understanding logical fallacies is crucial for recognizing and avoiding common mistakes in reasoning. By familiarizing yourself with these fallacies, you can develop a sharper analytical skillset and detect flawed arguments more effectively.

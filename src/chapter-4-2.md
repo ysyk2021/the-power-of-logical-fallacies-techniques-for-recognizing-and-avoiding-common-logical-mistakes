@@ -1,4 +1,4 @@
-Chapter 11: Tools for Identifying Logical Errors
+Tools for Identifying Logical Errors
 ================================================
 
 In this chapter, we will explore various tools that can assist you in identifying logical errors and fallacies. These tools provide frameworks and approaches to analyze arguments critically, recognize flawed reasoning, and avoid common logical mistakes. By utilizing these tools, you can enhance your ability to identify and critique faulty logic effectively.
