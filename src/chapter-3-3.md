@@ -1,9 +1,6 @@
 Overcoming Psychological Barriers to Recognizing Logical Fallacies
 ===========================================================================
 
-Introduction
-------------
-
 Welcome to the chapter on "Overcoming Psychological Barriers to Recognizing Logical Fallacies" in the book "The Power of Logical Fallacies: Techniques for Recognizing and Avoiding Common Logical Mistakes." In this chapter, we will explore the psychological factors that can hinder our ability to recognize logical fallacies and provide strategies to overcome these barriers. By understanding and addressing these challenges, we can sharpen our critical thinking skills and become more adept at identifying flawed reasoning.
 
 Cognitive Biases and Heuristics
