@@ -49,13 +49,19 @@ Exercise 4: Apply the Straw Man Technique
 
 Read the given argument and identify how the straw man fallacy is employed. Explain how the original argument is misrepresented and provide an alternative, more accurate representation.
 
-Argument: "I believe we should invest more in public education to improve the quality of our schools." Straw Man Fallacy: ___________________________________________________ Explanation: _______________________________________________________ Alternative Representation: ___________________________________________
+Argument: "I believe we should invest more in public education to improve the quality of our schools." 
+1. Straw Man Fallacy: ___________________________________________________ 
+1. Explanation: _______________________________________________________ 
+1. Alternative Representation: ___________________________________________
 
 Exercise 5: Analyze a Real-World Example
 ----------------------------------------
 
 Find a real-world example of a logical fallacy in a newspaper article, advertisement, or any other form of media. Identify the fallacy, describe the context, and explain why it constitutes flawed reasoning. Offer suggestions on how to improve the argument without the fallacious reasoning.
 
-Example: ________________________________________________________ Fallacy: _________________________________________________________ Explanation: ______________________________________________________ Improvement: _____________________________________________________
+1. Example: ________________________________________________________
+1. Fallacy: _________________________________________________________
+1. Explanation: ______________________________________________________
+1. Improvement: _____________________________________________________
 
 By engaging in these practice exercises, you will enhance your ability to spot logical fallacies and critically analyze arguments. Regular practice will strengthen your logical reasoning skills, enabling you to avoid common mistakes and approach reasoning with greater clarity and precision.

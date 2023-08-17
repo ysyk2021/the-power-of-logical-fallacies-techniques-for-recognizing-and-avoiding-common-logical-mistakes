@@ -1,7 +1,7 @@
 The Cognitive Biases that Lead to Logical Fallacies
 ============================================================
 
-Welcome to the chapter on "The Cognitive Biases that Lead to Logical Fallacies" in the book "The Power of Logical Fallacies: Techniques for Recognizing and Avoiding Common Logical Mistakes." In this chapter, we will explore the cognitive biases that can influence our reasoning and lead us to commit logical fallacies. Understanding these biases is crucial for recognizing and overcoming them, ultimately improving the quality of our arguments and decision-making processes.
+In this chapter, we will explore the cognitive biases that can influence our reasoning and lead us to commit logical fallacies. Understanding these biases is crucial for recognizing and overcoming them, ultimately improving the quality of our arguments and decision-making processes.
 
 What are Cognitive Biases?
 --------------------------
@@ -15,7 +15,7 @@ Cognitive Biases and Logical Fallacies
 
 2. **Availability Heuristic:** This bias refers to the tendency to rely on readily available examples or information that comes to mind easily when making judgments or decisions. It can lead to fallacies such as hasty generalizations or drawing conclusions based on limited personal experiences.
 
-3. \*\* Anchoring Bias:\*\* This bias occurs when individuals rely too heavily on initial information or "anchors" when making judgments or estimations. It can lead to fallacies such as anchoring an argument on an irrelevant or unreliable premise.
+3. **Anchoring Bias:** This bias occurs when individuals rely too heavily on initial information or "anchors" when making judgments or estimations. It can lead to fallacies such as anchoring an argument on an irrelevant or unreliable premise.
 
 4. **Bandwagon Effect:** This bias involves people adopting certain beliefs or behaviors simply because many others do so. The bandwagon effect can lead to fallacies such as the argumentum ad populum, where the popularity of a belief is used as evidence for its validity.
 

@@ -1,7 +1,7 @@
 Why People Use Logical Fallacies
 =========================================
 
-Welcome to the chapter on "Why People Use Logical Fallacies" in the book "The Power of Logical Fallacies: Techniques for Recognizing and Avoiding Common Logical Mistakes." In this chapter, we will explore the motivations and reasons behind why individuals employ logical fallacies in their arguments. Understanding these underlying factors can help us recognize and respond effectively to fallacious reasoning.
+In this chapter, we will explore the motivations and reasons behind why individuals employ logical fallacies in their arguments. Understanding these underlying factors can help us recognize and respond effectively to fallacious reasoning.
 
 Psychological Factors
 ---------------------
