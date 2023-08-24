@@ -1,5 +1,3 @@
-The Impact of Logical Fallacies on Decision-Making
-===========================================================
 
 Logical fallacies have a profound impact on decision-making processes, leading to flawed reasoning and potentially detrimental outcomes. In this chapter, we will explore the various ways in which logical fallacies can influence decision-making and discuss strategies for recognizing and avoiding these common mistakes.
 

@@ -1,5 +1,3 @@
-Introduction
-============
 
 Logical fallacies are common mistakes in reasoning that can lead to flawed arguments and decisions. They occur when there is a problem with the logical structure of an argument or the content/context of an argument. In this book, we will explore the world of logical fallacies and provide techniques for recognizing and avoiding common logical mistakes.
 

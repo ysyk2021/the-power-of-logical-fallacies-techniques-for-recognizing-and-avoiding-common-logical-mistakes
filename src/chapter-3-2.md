@@ -1,5 +1,3 @@
-Why People Use Logical Fallacies
-=========================================
 
 In this chapter, we will explore the motivations and reasons behind why individuals employ logical fallacies in their arguments. Understanding these underlying factors can help us recognize and respond effectively to fallacious reasoning.
 

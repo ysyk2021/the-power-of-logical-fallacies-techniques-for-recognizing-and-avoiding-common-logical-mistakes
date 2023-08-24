@@ -1,5 +1,3 @@
-The Cognitive Biases that Lead to Logical Fallacies
-============================================================
 
 In this chapter, we will explore the cognitive biases that can influence our reasoning and lead us to commit logical fallacies. Understanding these biases is crucial for recognizing and overcoming them, ultimately improving the quality of our arguments and decision-making processes.
 

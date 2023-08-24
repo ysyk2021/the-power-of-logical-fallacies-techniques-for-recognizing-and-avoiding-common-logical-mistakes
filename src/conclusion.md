@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the power of logical fallacies and techniques for recognizing and avoiding common logical mistakes. We have seen that logical fallacies can be used to manipulate and deceive, and that they can be found in many different types of discourse, from politics to advertising.
 

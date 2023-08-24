@@ -1,5 +1,3 @@
-Chapter 3: Identifying Logical Fallacies
-========================================
 
 In this chapter, we will explore strategies and tools for identifying common logical fallacies. By practicing exercises for identifying logical fallacies and using these tools and strategies, we can become more effective critical thinkers and communicators.
 
@@ -40,5 +38,4 @@ Conclusion
 ----------
 
 Identifying logical fallacies is an essential skill for anyone who wants to be an effective communicator and critical thinker. By using strategies for recognizing common logical fallacies, tools for identifying logical errors, and practicing exercises for identifying logical fallacies, we can become more effective at identifying flawed reasoning and making more informed decisions based on sound logic.
-
 

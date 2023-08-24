@@ -1,5 +1,3 @@
-Chapter 1: What are Logical Fallacies?
-======================================
 
 In this chapter, we will explore what logical fallacies are and their impact on decision-making. We will also provide examples of common logical fallacies to help readers become more familiar with these mistakes in reasoning.
 

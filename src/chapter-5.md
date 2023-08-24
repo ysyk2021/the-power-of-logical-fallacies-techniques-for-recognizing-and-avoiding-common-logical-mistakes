@@ -1,5 +1,3 @@
-Chapter 4: Debunking Logical Fallacies
-======================================
 
 In this chapter, we will explore strategies for debunking logical fallacies. By learning how to respond to flawed reasoning and building a case based on solid logic, we can become more effective communicators and critical thinkers.
 

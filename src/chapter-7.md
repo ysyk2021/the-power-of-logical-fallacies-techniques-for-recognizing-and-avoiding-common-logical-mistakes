@@ -1,5 +1,3 @@
-Chapter 6: Communication Strategies
-===================================
 
 In this chapter, we will explore communication strategies for recognizing and avoiding common logical fallacies. Effective communication is essential for making informed decisions and avoiding misunderstandings.
 

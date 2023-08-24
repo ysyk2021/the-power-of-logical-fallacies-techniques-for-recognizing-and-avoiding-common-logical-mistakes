@@ -1,5 +1,3 @@
-Techniques for Avoiding Logical Fallacies When Communicating
-=====================================================================
 
 In this chapter, we will explore techniques for avoiding logical fallacies when communicating. By understanding these techniques, you can improve your ability to engage in rational and logical discourse, recognize and avoid common mistakes, and promote clearer and more effective communication.
 

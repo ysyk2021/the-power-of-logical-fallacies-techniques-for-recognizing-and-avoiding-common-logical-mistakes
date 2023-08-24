@@ -1,5 +1,3 @@
-Chapter 5: Developing Logical Reasoning Skills
-==============================================
 
 In this chapter, we will explore techniques for developing logical reasoning skills. By becoming more proficient in logical reasoning, we can become more effective at recognizing and avoiding common logical fallacies.
 

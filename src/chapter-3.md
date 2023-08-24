@@ -1,5 +1,3 @@
-Chapter 2: The Psychology of Logical Fallacies
-==============================================
 
 In this chapter, we will explore the psychology behind logical fallacies. By understanding cognitive biases, motivations for using fallacious reasoning, and psychological barriers to recognizing logical fallacies, we can become more effective critical thinkers and communicators.
 
