@@ -30,3 +30,4 @@
   - [Techniques for avoiding logical fallacies when communicating](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
